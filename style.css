@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+
+.profile-picture {
+    margin-right: 20px; /* Memberi jarak antara foto dan data biografi */
+}
+
+.profile-picture img {
+    width: 200px; /* Menyesuaikan ukuran foto profil */
+    height: auto; /* Mempertahankan aspek ratio */
+}
+
+.biography {
+    border-radius: 200px;/* Gaya tambahan untuk data biografi */
+}
